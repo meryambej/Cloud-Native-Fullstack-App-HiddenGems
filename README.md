@@ -16,7 +16,7 @@ This repository is intended to:
 - Describe the architecture and technologies used  
 - Provide access to a functional demonstration  
 
-Source code access can be granted **upon request** for academic or professional evaluation.
+Source code access can be granted **upon request**
 
 ---
 
@@ -36,6 +36,12 @@ Source code access can be granted **upon request** for academic or professional 
 - Cloud-native design principles  
 - Container-ready services  
 
+### Main features
+- **Local Businesses Directory**: Support and discover local artisans, shops, and services tied to each destination  
+- **Community-Driven Content**: Explore destinations shared by other travelers and contribute your own discoveries  
+- **Reviews and Ratings**: Rate locations and share your experiences  
+- **Events & Trip Planning**: Find upcoming events and organize travel itineraries
+
 ### AI Integration
 - **TunAI**: AI fine-tuned to answer tourism-related questions  
 - Recommendation system for personalized travel suggestions based on budget destination 
@@ -46,7 +52,6 @@ Source code access can be granted **upon request** for academic or professional 
 - Weather API integration  
 - Map API integration  
 - “Guess the Landmark” game  
-
 ---
 
 ##  Demo
