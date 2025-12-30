@@ -22,27 +22,21 @@ Source code access can be granted **upon request**
 
 ## Technologies Used
 
-### Frontend
-- Angular Framework
+| Layer / Purpose           | Technology / Tool                  |
+|----------------------------|-----------------------------------|
+| Frontend                  | Angular Framework                 |
+| Backend                   | Spring Framework                  |
+| Database                  | MySQL                              |
+| Cloud & Infrastructure    | OpenStack, Cloud-native principles, Container-ready services |
 
-### Backend
-- Spring Framework
-
-### Database
-- MySQL
-
-### Cloud & Infrastructure
-- OpenStack  
-- Cloud-native design principles  
-- Container-ready services  
-
+## Features 
 ### Main features
 - **Local Businesses Directory**: Support and discover local artisans, shops, and services tied to each destination  
 - **Community-Driven Content**: Explore destinations shared by other travelers and contribute your own discoveries  
 - **Reviews and Ratings**: Rate locations and share your experiences  
 - **Events & Trip Planning**: Find upcoming events and organize travel itineraries
 
-### AI Integration
+### AI Features 
 - **TunAI**: AI fine-tuned to answer tourism-related questions  
 - Recommendation system for personalized travel suggestions based on budget destination 
 - Chatbot companion for users  
@@ -51,7 +45,8 @@ Source code access can be granted **upon request**
 ### Other Features
 - Weather API integration  
 - Map API integration  
-- “Guess the Landmark” game  
+- “Guess the Landmark” game
+- Random fact 
 ---
 
 ##  Demo
