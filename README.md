@@ -16,7 +16,7 @@ This repository is intended to:
 - Describe the architecture and technologies used  
 - Provide access to a functional demonstration  
 
-Source code access can be granted **upon request**
+Source code access can be granted **upon request** :)
 
 ---
 
